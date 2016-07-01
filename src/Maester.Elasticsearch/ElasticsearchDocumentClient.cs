@@ -17,26 +17,36 @@ namespace Maester.Elasticsearch
 
         private readonly IElasticsearchRestApi _elasticsearchRestApi;
 
-        public void CreateDocument<T>(string id, string indexName, T document) where T : class, new()
+        public void GetDocument<T>(string id, string indexName) where T : class, new()
+        {
+            string typeName = typeof(T).Name;
+            var response = _elasticsearchRestApi.GetDocument(indexName, typeName.ToLower(), id).Result;
+            string content = response.Content.ReadAsStringAsync().Result;
+
+        }
+
+        public void IndexDocument<T>(string id, string indexName, T document) where T : class, new()
         {
             string typeName = document.GetType().Name;
             var response = _elasticsearchRestApi.Index(indexName, typeName.ToLower(), id, document).Result;
         }
 
-        public void CreateDocument<T>(string indexName, T document) where T : class, new()
+        public void IndexDocument<T>(string indexName, T document) where T : class, new()
         {
             string typeName = document.GetType().Name;
-            var response = _elasticsearchRestApi.IndexWithoutId(indexName, typeName, document).Result;
+            var response = _elasticsearchRestApi.IndexWithoutId(indexName, typeName.ToLower(), document).Result;
         }
 
         public void UpdateDocument<T>(string id, string indexName, T document) where T : class, new()
         {
-            throw new NotImplementedException();
+            string typeName = document.GetType().Name;
+            var response = _elasticsearchRestApi.UpdateDocument(indexName, typeName.ToLower(), id, document).Result;
         }
 
-        public void DeleteDocument<T>(string indexName, T document) where T : class, new()
+        public void DeleteDocument<T>(string id, string indexName) where T : class, new()
         {
-            throw new NotImplementedException();
+            string typeName = typeof(T).Name;
+            var response = _elasticsearchRestApi.DeleteDocument(indexName, typeName.ToLower(), id).Result;
         }
     }
 }
