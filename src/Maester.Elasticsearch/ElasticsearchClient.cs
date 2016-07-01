@@ -13,7 +13,7 @@ namespace Maester.Elasticsearch
         {
             _uri = uri;
 
-            Documents = new ElasticsearchDocumentClient();
+            Documents = new ElasticsearchDocumentClient(uri);
             Aliases = new ElasticsearchAliasClient();
             Indexes = new ElasticsearchIndexClient();
         }

@@ -1,0 +1,7 @@
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\bin\Debug\Maester.Solr.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\bin\Debug\Maester.Solr.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\bin\Debug\Maester.Core.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\bin\Debug\Maester.Core.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\obj\Debug\Maester.Solr.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\obj\Debug\Maester.Solr.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Solr\obj\Debug\Maester.Solr.pdb

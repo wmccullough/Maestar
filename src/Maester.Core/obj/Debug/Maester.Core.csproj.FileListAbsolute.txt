@@ -1,0 +1,5 @@
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Core\bin\Debug\Maester.Core.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Core\bin\Debug\Maester.Core.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Core\obj\Debug\Maester.Core.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Core\obj\Debug\Maester.Core.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Core\obj\Debug\Maester.Core.pdb

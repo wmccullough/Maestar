@@ -1,0 +1,17 @@
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\obj\Debug\Maester.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Tests.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Tests.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Core.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Elasticsearch.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Solr.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\RestEase.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Core.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Elasticsearch.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Maester.Solr.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\RestEase.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\RestEase.xml
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\obj\Debug\Maester.Tests.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Tests\obj\Debug\Maester.Tests.pdb

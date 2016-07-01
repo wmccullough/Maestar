@@ -1,0 +1,12 @@
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\obj\Debug\Maester.Elasticsearch.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\Maester.Elasticsearch.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\Maester.Elasticsearch.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\Maester.Core.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\RestEase.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\Maester.Core.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\RestEase.pdb
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\bin\Debug\RestEase.xml
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\obj\Debug\Maester.Elasticsearch.dll
+C:\Users\wmccullough\Documents\Maestar\src\Maester.Elasticsearch\obj\Debug\Maester.Elasticsearch.pdb

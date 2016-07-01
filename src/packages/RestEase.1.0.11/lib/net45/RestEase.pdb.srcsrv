@@ -1,0 +1,43 @@
+SRCSRV: ini ------------------------------------------------
+VERSION=2
+SRCSRV: variables ------------------------------------------
+SRCSRVVERCTRL=https
+SRCSRVTRG=https://raw.github.com/canton7/RestEase/0659333b6a1d141df1ec06fc096243a3f4411873/%var2%
+SRCSRV: source files ---------------------------------------
+C:\projects\restease\src\RestEase\AllowAnyStatusCodeAttribute.cs*src/RestEase/AllowAnyStatusCodeAttribute.cs
+C:\projects\restease\src\RestEase\BodyAttribute.cs*src/RestEase/BodyAttribute.cs
+C:\projects\restease\src\RestEase\BodySerializationMethod.cs*src/RestEase/BodySerializationMethod.cs
+C:\projects\restease\src\RestEase\HeaderAttribute.cs*src/RestEase/HeaderAttribute.cs
+C:\projects\restease\src\RestEase\Implementation\BodyParameterInfo.cs*src/RestEase/Implementation/BodyParameterInfo.cs
+C:\projects\restease\src\RestEase\Implementation\CustomAttributeExtensions.cs*src/RestEase/Implementation/CustomAttributeExtensions.cs
+C:\projects\restease\src\RestEase\Implementation\DictionaryIterator.cs*src/RestEase/Implementation/DictionaryIterator.cs
+C:\projects\restease\src\RestEase\Implementation\EnumerableExtensions.cs*src/RestEase/Implementation/EnumerableExtensions.cs
+C:\projects\restease\src\RestEase\Implementation\IndexedParameter.cs*src/RestEase/Implementation/IndexedParameter.cs
+C:\projects\restease\src\RestEase\Implementation\IRequestInfo.cs*src/RestEase/Implementation/IRequestInfo.cs
+C:\projects\restease\src\RestEase\Implementation\ModifyingClientHttpHandler.cs*src/RestEase/Implementation/ModifyingClientHttpHandler.cs
+C:\projects\restease\src\RestEase\Implementation\ParameterGrouping.cs*src/RestEase/Implementation/ParameterGrouping.cs
+C:\projects\restease\src\RestEase\Implementation\QueryParameterInfo.cs*src/RestEase/Implementation/QueryParameterInfo.cs
+C:\projects\restease\src\RestEase\Implementation\SerializationMethods.cs*src/RestEase/Implementation/SerializationMethods.cs
+C:\projects\restease\src\RestEase\IRequestBodySerializer.cs*src/RestEase/IRequestBodySerializer.cs
+C:\projects\restease\src\RestEase\IRequestQueryParamSerializer.cs*src/RestEase/IRequestQueryParamSerializer.cs
+C:\projects\restease\src\RestEase\JsonRequestBodySerializer.cs*src/RestEase/JsonRequestBodySerializer.cs
+C:\projects\restease\src\RestEase\JsonRequestQueryParamSerializer.cs*src/RestEase/JsonRequestQueryParamSerializer.cs
+C:\projects\restease\src\RestEase\PathAttribute.cs*src/RestEase/PathAttribute.cs
+C:\projects\restease\src\RestEase\QueryAttribute.cs*src/RestEase/QueryAttribute.cs
+C:\projects\restease\src\RestEase\ApiException.cs*src/RestEase/ApiException.cs
+C:\projects\restease\src\RestEase\Implementation\ImplementationBuilder.cs*src/RestEase/Implementation/ImplementationBuilder.cs
+C:\projects\restease\src\RestEase\IRequester.cs*src/RestEase/IRequester.cs
+C:\projects\restease\src\RestEase\IResponseDeserializer.cs*src/RestEase/IResponseDeserializer.cs
+C:\projects\restease\src\RestEase\JsonResponseDeserializer.cs*src/RestEase/JsonResponseDeserializer.cs
+C:\projects\restease\src\RestEase\Properties\AssemblyInfo.cs*src/RestEase/Properties/AssemblyInfo.cs
+C:\projects\restease\src\RestEase\QueryMapAttribute.cs*src/RestEase/QueryMapAttribute.cs
+C:\projects\restease\src\RestEase\QuerySerialializationMethod.cs*src/RestEase/QuerySerialializationMethod.cs
+C:\projects\restease\src\RestEase\RequestAttribute.cs*src/RestEase/RequestAttribute.cs
+C:\projects\restease\src\RestEase\Implementation\Requester.cs*src/RestEase/Implementation/Requester.cs
+C:\projects\restease\src\RestEase\Implementation\RequestInfo.cs*src/RestEase/Implementation/RequestInfo.cs
+C:\projects\restease\src\RestEase\RequestModifier.cs*src/RestEase/RequestModifier.cs
+C:\projects\restease\src\RestEase\Response.cs*src/RestEase/Response.cs
+C:\projects\restease\src\RestEase\Implementation\ImplementationCreationException.cs*src/RestEase/Implementation/ImplementationCreationException.cs
+C:\projects\restease\src\RestEase\RestClient.cs*src/RestEase/RestClient.cs
+C:\projects\restease\src\RestEase\SerializationMethodsAttribute.cs*src/RestEase/SerializationMethodsAttribute.cs
+SRCSRV: end ------------------------------------------------
